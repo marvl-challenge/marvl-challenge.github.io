@@ -1,0 +1,72 @@
+I"¨
+<p>Our list of chapters are taken from the <a href="https://ids.clld.org">Intercontinental Dictionary Series</a> (Key &amp; Comrie, 2015). It is an open-source cooperative and evolving database, and it is cross-lingually comprehensive, as it collects lexical material about languages from all over the world.</p>
+
+<p>From its 22 chapters, we retain only the set of 18 semantic fields that cover concrete objects and events. The semantic fields are universal across all languages. The annotators then write specific concepts for each semantic field.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Chapter</th>
+      <th style="text-align: center">Index</th>
+      <th style="text-align: right">Semantic field</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Animal</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: right">Bird, mammal</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Food and Beverages</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: right">Food, Beverages</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Clothing and grooming</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: right">Clothing</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">The house</td>
+      <td style="text-align: center">7</td>
+      <td style="text-align: right">Interior, exterior</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Agriculture and vegetation</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: right">Flower, fruit, vegetable, agriculture</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Basic actions and technology</td>
+      <td style="text-align: center">9</td>
+      <td style="text-align: right">Utensil/tool</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Motion</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: right">Sport</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Time</td>
+      <td style="text-align: center">14</td>
+      <td style="text-align: right">Celebrations</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cognition</td>
+      <td style="text-align: center">17</td>
+      <td style="text-align: right">Education</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Speech and language</td>
+      <td style="text-align: center">18</td>
+      <td style="text-align: right">Music (instruments), visual arts</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Religion and belief</td>
+      <td style="text-align: center">19</td>
+      <td style="text-align: right">Religion</td>
+    </tr>
+  </tbody>
+</table>
+:ET
