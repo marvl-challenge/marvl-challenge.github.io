@@ -6,7 +6,7 @@ description: "MaRVL is a multilingual multimodal resource for visual-linguistic 
 permalink: /
 ---
 
-# **MaRVL**: **M**ulticultur**a** **R**easoning over **V**ision and **L**anguage 
+# **MaRVL**: **M**ulticultur**a**l **R**easoning over **V**ision and **L**anguage 
 {: .fs-9 }
 
 
