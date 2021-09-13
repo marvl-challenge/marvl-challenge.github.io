@@ -16,7 +16,7 @@ permalink: /
 In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)*, Nov 2021.
 {: .fs-4 .fw-300 }
 
-[paper](/marvl/media/paper.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[paper](/media/paper.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [data](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [code](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
@@ -26,5 +26,5 @@ In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language 
 
 Brought to you by researchers from:<br>
 <pre>
-<img src="/marvl/media/logos/university-of-cambridge-logo.png" height="3" width="180">  <img src="/marvl/media/logos/copenhagen.png" height="3" width="150">  <img src="/marvl/media/logos/mila-purple.png" height="3" width="120">  <img src="/marvl/media/logos/mcgill-logo.png" height="3" width="130">
+<img src="/media/logos/university-of-cambridge-logo.png" height="3" width="180">  <img src="/media/logos/copenhagen.png" height="3" width="150">  <img src="/media/logos/mila-purple.png" height="3" width="120">  <img src="/media/logos/mcgill-logo.png" height="3" width="130">
 </pre>
