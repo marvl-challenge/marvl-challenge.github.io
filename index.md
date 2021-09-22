@@ -16,7 +16,7 @@ permalink: /
 In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)*, Nov 2021.
 {: .fs-4 .fw-300 }
 
-[paper](/media/paper.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[paper](/media/paper-compressed.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [data](/download){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 [code (is coming soon...)](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
