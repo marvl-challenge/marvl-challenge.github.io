@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-nav_order: 1
+nav_order: 0
 description: "MaRVL is a multilingual multimodal resource for visual-linguistic reasoning."
 permalink: /
 ---
@@ -17,10 +17,8 @@ In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language 
 {: .fs-4 .fw-300 }
 
 [paper](/media/paper.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
-[data](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
-[code](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
-
-
+[data](/download){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
+[code (is coming soon...)](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } 
 
 ---
 

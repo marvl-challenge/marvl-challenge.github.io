@@ -11,24 +11,30 @@
     "url": "https://marvl-challenge.github.io/docs/hierarchy/concepts/",
     "relUrl": "/docs/hierarchy/concepts/"
   },"2": {
+    "doc": "Download",
+    "title": "Download",
+    "content": "# Download MaRVL ### Terms of Use We distribute the texts and features under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.ast). The MaRVL team does not own the images and we provide access to the images only for (non-commercial) research purposes. You should only use the images under the regulations of their original license(s) and respect the corresponding intellectual property rights. By downloading any of the data, you accept our terms of use and full responsibility for using the dataset. If you believe any of the image(s) we provide has breached your rights please contact us and we will remove the image(s). ### Download Links For texts (`marvl-*.jsonl`) and images (` marvl-images.zip`), please download from the Datavere portal: For image features, please fownload from [some cloud drive]() (to be announced...). ",
+    "url": "https://marvl-challenge.github.io/download",
+    "relUrl": "/download"
+  },"3": {
     "doc": "Concept Hierarchy",
     "title": "Concept Hierarchy",
     "content": "# Concept Hierarchy {: .fs-6 .fw-300 } ",
     "url": "https://marvl-challenge.github.io/docs/hierarchy",
     "relUrl": "/docs/hierarchy"
-  },"3": {
+  },"4": {
     "doc": "Images",
     "title": "Images",
     "content": "# Images {: .fs-6 .fw-300 } ",
     "url": "https://marvl-challenge.github.io/docs/images/",
     "relUrl": "/docs/images/"
-  },"4": {
+  },"5": {
     "doc": "Home",
     "title": "Home",
-    "content": "# **MaRVL**: **M**ulticultur**a**l **R**easoning over **V**ision and **L**anguage {: .fs-9 } **Visually Grounded Reasoning across Languages and Cultures** [Fangyu Liu](http://fangyuliu.me/about.html)\\*, [Emanuele Bugliarello](https://e-bug.github.io)\\*, [Edoardo Maria Ponti](https://ducdauge.github.io), [Siva Reddy](https://sivareddy.in), [Nigel Collier](https://sites.google.com/site/nhcollier/), [Desmond Elliott](https://elliottd.github.io). (\\* -- equal contribution) In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)*, Nov 2021. {: .fs-4 .fw-300 } [paper](/media/paper.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [data](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [code](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } --- Brought to you by researchers from: . ",
+    "content": "# **MaRVL**: **M**ulticultur**a**l **R**easoning over **V**ision and **L**anguage {: .fs-9 } **Visually Grounded Reasoning across Languages and Cultures** [Fangyu Liu](http://fangyuliu.me/about.html)\\*, [Emanuele Bugliarello](https://e-bug.github.io)\\*, [Edoardo Maria Ponti](https://ducdauge.github.io), [Siva Reddy](https://sivareddy.in), [Nigel Collier](https://sites.google.com/site/nhcollier/), [Desmond Elliott](https://elliottd.github.io). (\\* -- equal contribution) In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)*, Nov 2021. {: .fs-4 .fw-300 } [paper](/media/paper.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [data](/download){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [code (is coming soon...)](){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } --- Brought to you by researchers from: . ",
     "url": "https://marvl-challenge.github.io/",
     "relUrl": "/"
-  },"5": {
+  },"6": {
     "doc": "The Task",
     "title": "The Task",
     "content": "# The MaRVL Task Given *a pair of images* and *a caption*, the model needs to assign **TRUE**/**FALSE** to the example (i.e., juedge whether the caption is correctly describing the pair of images). Two examples from MaRVL. The Tamil images (a) are from the concept [ஏறுதழுவல்](https://ta.wikipedia.org/wiki/ஏறுதழுவல்) ([Jallikattu](https://en.wikipedia.org/wiki/Jallikattu), part of an Indian festivity), while the Swahili images (b) are from the concept [leso](https://sw.wikipedia.org/wiki/Leso) ([Handkerchief](https://en.wikipedia.org/wiki/Handkerchief)). ## Example (a) இரு படங்களில் ஒன்றில் இரண்டிற்கும் மேற்பட்ட மஞ்சள் சட்டை அணிந்த வீரர்கள் காளையை அடக்கும் பணியில் ஈடுப்பட்டிருப்பதை காணமுடிகிறது. (Translation: *In one of the two photos, more than two yellow-shirted players are seen engaged in bull taming.*) Label: **TRUE** ## Example (b) Picha moja ina watu kadhaa waliovaa leso na picha nyingine ina leso bila watu. (Translation: *One picture contains several people wearing handkerchiefs and another picture has a handkerchief without people.*) Label: **FALSE** ",
