@@ -15,5 +15,5 @@ The MaRVL team does not own the images and we provide access to the images only 
 
 ### Download Links
 For texts (`marvl-*.jsonl`) and images (`
-marvl-images.zip`), please download from the Dataverse portal:
+marvl-images.zip`), please download from the [Dataverse portal](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/42VZ4P):
 <script src="https://dataverse.scholarsportal.info/resources/js/widgets.js?persistentId=doi:10.5683/SP3/42VZ4P&amp;dvUrl=https://dataverse.scholarsportal.info&amp;widget=iframe&amp;heightPx=500"></script>
