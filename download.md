@@ -13,6 +13,20 @@ permalink: /download
 We distribute the texts and features under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/deed.ast). 
 The MaRVL team does not own the images and we provide access to the images only for (non-commercial) research purposes. You should only use the images under the regulations of their original license(s) and respect the corresponding intellectual property rights. By downloading any of the data, you accept our terms of use and full responsibility for using the dataset. If you believe any of the image(s) we provide has breached your rights please contact us and we will remove the image(s).
 
+
+```bibtex
+@inproceedings{liu-etal-2021-visually,
+  title = "Visually Grounded Reasoning across Languages and Cultures",
+  author = "Liu, Fangyu and Bugliarello, Emanuele and Ponti, Edoardo Maria and Reddy, Siva and Collier, Nigel and Elliott, Desmond",
+  booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+  month = nov,
+  year = "2021",
+  address = "Punta Cana, Dominican Republic",
+  publisher = "Association for Computational Linguistics",
+  pages = "(to appear)",
+}
+```
+
 ### Download Links
 For texts (`marvl-*.jsonl`) and images (`
 marvl-images.zip`), please download from the [Dataverse portal](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/42VZ4P) (see below).
