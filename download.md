@@ -16,14 +16,20 @@ The MaRVL team does not own the images and we provide access to the images only 
 
 ```bibtex
 @inproceedings{liu-etal-2021-visually,
-  title = "Visually Grounded Reasoning across Languages and Cultures",
-  author = "Liu, Fangyu and Bugliarello, Emanuele and Ponti, Edoardo Maria and Reddy, Siva and Collier, Nigel and Elliott, Desmond",
-  booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
-  month = nov,
-  year = "2021",
-  address = "Punta Cana, Dominican Republic",
-  publisher = "Association for Computational Linguistics",
-  pages = "(to appear)",
+    title = "Visually Grounded Reasoning across Languages and Cultures",
+    author = "Liu, Fangyu  and
+      Bugliarello, Emanuele  and
+      Ponti, Edoardo Maria  and
+      Reddy, Siva  and
+      Collier, Nigel  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.818",
+    pages = "10467--10485"
 }
 ```
 
